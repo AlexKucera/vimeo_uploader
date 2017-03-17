@@ -1,7 +1,0 @@
-{"AccessToken": "d1fa43fb03afb5c5addfgfde08c6ffe1093b7a",
-"Scope": "public private purchased create edit delete interact upload",
-"ClientID": "89d02b8dfffddfbf0d65d7a9cdd013e702639ff7404ab4d",
-"ClientSecret": "fmDYFdfghdfhdfhfdhdfhYh2Wl2uj+cigC3Zihn4lPaZekg6K2cd1v7mrzFygbTpCc09bqvK4ctqLuM8SQNa1cCtqSjA0sQlOhc77Z9cQMiqzpmClIi5P3vF+OIQAycfi8fzKtZrYlsxi2x6",
-"AuthorizeURL": "https://api.vimeo.com/oauth/authorize",
-"AccessTokenURL": "https://api.vimeo.com/oauth/access_token"
-}
